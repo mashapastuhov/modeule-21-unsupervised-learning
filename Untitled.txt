@@ -1,0 +1,4 @@
+The first model only had accuracy at 74%
+the first optimization we added another layer and more neurons, and the model got worse - 72% accuracy
+in the second optimization we adjusted the number of neurons but kept the 4 layers from Optimization Model 1, and we also "binned" the Names columns. This increased the accuract of the model to 80%
+If we could use a different model to solve the same problem a Random Forrest would be better and work faster
